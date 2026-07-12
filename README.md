@@ -146,9 +146,11 @@ Using interactive visuals and KPI indicators, the dashboard helps decision-maker
 
 The complete interactive Power BI report is included in this repository.
 
-**File:**
-- `Employee_Performance_Dashboard.pbix`
+📥 **Download the Power BI Report**
+
+[Employee_Performance_Dashboard.pbix](./Employee_Performance_Dashboard.pbix)
 ---
+
 ## Author
 
 **Peter Makanjuola**
@@ -159,5 +161,6 @@ Data Analyst
 
 ## Connect With Me
 
-- LinkedIn: *(Add your LinkedIn URL)*
 - GitHub: https://github.com/Peterlyst
+- LinkedIn: *(Add your LinkedIn URL)*
+
