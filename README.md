@@ -146,6 +146,7 @@ Analyzes employee performance across workforce characteristics.
 
 ## Tools Used
 
+- Microsoft Excel
 - Microsoft Power BI
 - Power Query
 - DAX
@@ -179,35 +180,11 @@ Analyzes employee performance across workforce characteristics.
 
 ---
 
-## Repository Contents
-
-```
-📂 Employee-Performance-Analytics-Dashboard
-│
-├── Employee_Performance_Dashboard.pbix
-├── Executive_Dashboard.png
-├── Salary_Dashboard.png
-├── Performance_Dashboard.png
-├── README.md
-└── Dataset.xlsx
-```
-
----
-
-## How to Use
-
-1. Download the repository.
-2. Open the `.pbix` file using Microsoft Power BI Desktop.
-3. Refresh the dataset if required.
-4. Interact with slicers and visuals to explore workforce insights.
-
----
-
 ## Author
 
 **Peter Makanjuola**
 
-Aspiring Data Analyst passionate about transforming data into actionable business insights using Power BI, Excel, SQL, and data visualization.
+Data Analyst 
 
 ---
 
