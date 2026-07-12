@@ -8,22 +8,6 @@ The report is designed to support strategic workforce planning, performance moni
 
 ---
 
-## Dashboard Preview
-
-### Executive Dashboard
-
-![Executive Dashboard](Executive_Dashboard.png)
-
-### Employee Salary Analytics Dashboard
-
-![Salary Dashboard](Salary_Dashboard.png)
-
-### Employee Performance & Workforce Analytics Dashboard
-
-![Performance Dashboard](Performance_Dashboard.png)
-
----
-
 ## Business Problem
 
 Organizations often struggle to consolidate workforce information into a single reporting solution. HR leaders need visibility into:
@@ -55,19 +39,11 @@ This dashboard centralizes these insights to help management make informed workf
 
 Provides a high-level overview of the organization's workforce.
 
-### KPIs
+## Overview
 
-- Total Salary
-- Total Employees
-- Average Performance Score
-- Average Skill Score
+This page provides a high-level summary of the organization's workforce, enabling executives and HR leaders to quickly assess key workforce metrics and employee demographics. It serves as the starting point of the report by presenting critical KPIs alongside workforce distribution across education levels, work locations, city tiers, and job roles.
 
-### Visuals
-
-- Employees by Education Level
-- Employees by Work Location
-- Employees by City Tier
-- Employees by Job Role
+The dashboard is designed to help decision-makers monitor workforce composition, evaluate organizational performance at a glance, and identify trends that support strategic planning, talent management, and resource allocation through interactive filtering and visual analytics.
 
 ### Key Insights
 
@@ -76,25 +52,18 @@ Provides a high-level overview of the organization's workforce.
 - DevOps has the highest employee count.
 - Workforce education levels are relatively balanced.
 
+![Executive Dashboard](Executive_Dashboard.png)
 ---
 
 ## 2. Employee Salary Analytics Dashboard
 
 Focuses on salary expenditure across different employee characteristics.
 
-### KPIs
+## Overview
 
-- Total Salary
-- Total Employees
-- Average Performance Score
-- Average Skill Score
+This page provides a comprehensive analysis of salary expenditure across the workforce by examining key factors such as employee age, years of experience, performance scores, and skill levels. It enables HR managers and business leaders to understand salary distribution patterns, identify the primary drivers of compensation, and evaluate how employee characteristics influence payroll costs.
 
-### Visuals
-
-- Salary by Number of Skills
-- Salary by Years of Experience
-- Salary Distribution by Age
-- Salary by Performance Score
+Through interactive visualizations and KPI indicators, the dashboard supports data-driven decisions related to compensation planning, workforce budgeting, performance management, and talent retention. It helps decision-makers identify salary trends, assess whether compensation aligns with employee performance and experience, and uncover opportunities to optimize workforce investment.
 
 ### Key Insights
 
@@ -103,25 +72,18 @@ Focuses on salary expenditure across different employee characteristics.
 - Higher-performing employees contribute a larger share of salary expenditure.
 - Employees with more skills tend to earn higher salaries.
 
+![Salary Dashboard](Salary_Dashboard.png)
 ---
 
 ## 3. Employee Performance & Workforce Analytics Dashboard
 
 Analyzes employee performance across workforce characteristics.
 
-### KPIs
+### Overview
 
-- Total Salary
-- Total Employees
-- Average Performance Score
-- Average Skill Score
+This page provides an in-depth analysis of employee performance across key workforce dimensions, including job role, education level, work location, and city tier. It enables HR managers and business leaders to evaluate performance trends, identify high-performing groups, and understand how workforce characteristics influence overall organizational performance.
 
-### Visuals
-
-- Average Performance Score by City Tier
-- Average Performance Score by Job Role
-- Average Performance Score by Work Location
-- Performance Score by Education Level
+Using interactive visuals and KPI indicators, the dashboard helps decision-makers monitor employee performance, compare workforce segments, and identify opportunities for targeted training, talent development, and performance improvement. By transforming performance data into actionable insights, the dashboard supports strategic workforce planning and promotes informed, data-driven HR decisions.
 
 ### Key Insights
 
@@ -131,6 +93,7 @@ Analyzes employee performance across workforce characteristics.
 - DevOps engineers have the highest average performance score.
 - Product Managers have the lowest average performance score.
 
+![Performance Dashboard](Performance_Dashboard.png)
 ---
 
 ## Features
@@ -179,7 +142,13 @@ Analyzes employee performance across workforce characteristics.
 - Use education and performance insights to improve talent development programs.
 
 ---
+## Power BI Report
 
+The complete interactive Power BI report is included in this repository.
+
+**File:**
+- `Employee_Performance_Dashboard.pbix`
+---
 ## Author
 
 **Peter Makanjuola**
